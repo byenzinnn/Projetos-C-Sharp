@@ -1,0 +1,19 @@
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\bin\Debug\net6.0-windows\Conversor de medidas.exe
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\bin\Debug\net6.0-windows\Conversor de medidas.deps.json
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\bin\Debug\net6.0-windows\Conversor de medidas.runtimeconfig.json
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\bin\Debug\net6.0-windows\Conversor de medidas.dll
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\bin\Debug\net6.0-windows\Conversor de medidas.pdb
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor_de_medidas.Form1.resources
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor de medidas.csproj.GenerateResource.cache
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor de medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor de medidas.AssemblyInfoInputs.cache
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor de medidas.AssemblyInfo.cs
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor de medidas.csproj.CoreCompileInputs.cache
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor de medidas.dll
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\refint\Conversor de medidas.dll
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor de medidas.pdb
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor de medidas.genruntimeconfig.cache
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\ref\Conversor de medidas.dll
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor_de_medidas.Properties.Resources.resources
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor_de_medidas.Form2.resources
+C:\Users\enzod\source\repos\Conversor de medidas\Conversor de medidas\obj\Debug\net6.0-windows\Conversor_de_medidas.Form3.resources
